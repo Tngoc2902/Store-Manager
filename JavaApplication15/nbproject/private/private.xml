@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/dao/ProductDAO.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/observer/CartObserver.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/model/Cart.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/view/ProductListView.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/utils/UndoStack.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/utils/DBUtil.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/view/CartView.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/dao/OrderDAO.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/view/InvoiceHistoryView.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/model/CartItem.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/model/Product.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/strategy/SalesStrategy.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/strategy/DailySalesStrategy.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/strategy/WeeklySalesStrategy.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/strategy/MonthlySalesStrategy.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/strategy/SalesContext.java</file>
+            <file>file:/D:/BtapJava/JavaApplication15/src/shopapp/utils/FormatUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
